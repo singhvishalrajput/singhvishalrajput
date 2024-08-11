@@ -17,10 +17,10 @@
  🌐 Proficient in HTML, CSS, JavaScript, React, Node.js, and MongoDB.
 
 ### Fun Facts
-
-  🏏 When I'm not coding, you can find me playing cricket, football, or volleyball.
   
   🧩 I enjoy solving complex problems and bringing creative ideas to life.
+
+  🏏 When I'm not coding, you can find me playing cricket, football, or volleyball.
   
   📚 I also take tuitions for students below 10th grade, helping them excel in their studies.
 
