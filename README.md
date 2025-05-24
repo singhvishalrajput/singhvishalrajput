@@ -2,7 +2,7 @@
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=singhvishalrajput.singhvishalrajput" />
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&lines=Hi+There!+👋;I'm+Vishal+Singh!;Frontend+Developer+💻;Computer+Engineering+Student+🎓;From+India+🇮🇳;Always+Learning+New+Things!+🚀)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Outfit&weight=600&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&pause=1000&color=00D9FF&lines=Hi+There!+👋;I'm+Vishal+Singh!;Frontend+Developer+💻;Computer+Engineering+Student+🎓;From+India+🇮🇳;Always+Learning+New+Things!+🚀)
 
 </div>
 
