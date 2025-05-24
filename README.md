@@ -155,3 +155,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+![Snake animation](https://github.com/singhvishalrajput/singhvishalrajput/blob/output/github-contribution-grid-snake.svg)
+
+</div>
