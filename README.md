@@ -4,9 +4,6 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&lines=Hi+There!+👋;I'm+Vishal+Singh!;Frontend+Developer+💻;Computer+Engineering+Student+🎓;From+India+🇮🇳;Always+Learning+New+Things!+🚀)
 
-[![GitHub followers](https://img.shields.io/github/followers/singhvishalrajput?style=for-the-badge&logo=github&color=blue)](https://github.com/singhvishalrajput?tab=followers)
-[![GitHub stars](https://img.shields.io/github/stars/singhvishalrajput?style=for-the-badge&logo=github&color=yellow)](https://github.com/singhvishalrajput?tab=repositories)
-
 </div>
 
 ---
@@ -69,10 +66,10 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=singhvishalrajput&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=singhvishalrajput&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<img width="47%"  src="https://github-readme-stats.vercel.app/api?username=singhvishalrajput&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
+<img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=singhvishalrajput&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhvishalrajput&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhvishalrajput&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
 
 </div>
 
