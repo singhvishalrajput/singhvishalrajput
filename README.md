@@ -12,7 +12,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-**Computer Engineering Student from India 🇮🇳**  
+**Computer Engineering Student from India**  
 **Frontend Developer Intern at [Rallybase](https://rallybase.co) 💼**
 
 🤖 Exploring the world of **AI** and **data structures**  
