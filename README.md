@@ -2,7 +2,7 @@
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=singhvishalrajput.singhvishalrajput" />
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Outfit&weight=600&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&pause=1000&color=00D9FF&lines=Hi+There!+👋;I'm+Vishal+Singh!;Frontend+Developer+💻;Computer+Engineering+Student+🎓;From+India+🇮🇳;Always+Learning+New+Things!+🚀)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Outfit&weight=600&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&pause=1000&color=00D9FF&lines=Hi+There!+👋;I'm+Vishal+Singh!;Frontend+Developer+💻;Computer+Engineering+Student+🎓;From+INDIA;Always+Learning+New+Things!+🚀)
 
 </div>
 
@@ -12,7 +12,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-**Computer Engineering Student from India**  
+**Computer Engineering Student from INDIA**  
 **Frontend Developer Intern at [Rallybase](https://rallybase.co) 💼**
 
 🤖 Exploring the world of **AI** and **data structures**  
