@@ -43,7 +43,7 @@ Currently, I'm deepening my knowledge of Java, backend engineering, <br/> system
 
 ---
 
-##  Tech Arsenal
+##  Tech Stack
 
 <div align="left">
 
@@ -82,14 +82,16 @@ Currently, I'm deepening my knowledge of Java, backend engineering, <br/> system
 
 ---
 
-##  GitHub Analytics
+<br/>
+
+## GitHub Activity
 
 <div align="center">
 
-<img width="47%"  src="https://github-readme-stats.vercel.app/api?username=singhvishalrajput&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
-<img width="50%" height="10%" src="https://github-readme-streak-stats.herokuapp.com/?user=singhvishalrajput&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhvishalrajput&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=singhvishalrajput&theme=dark"
+  width="100%"
+/>
 
 </div>
 
@@ -99,19 +101,8 @@ Currently, I'm deepening my knowledge of Java, backend engineering, <br/> system
 
 - Perfect CGPA of 10.0 from the 1st to the 5th semester
 - Level-Up Hackathon Winner
-- Foundations of Cybersecurity certification
 - 5 Star in Java and 4 Star in Python on HackerRank
 - 500+ coding problems solved across CodeChef, HackerRank, and LeetCode
-
----
-
-##  Activity Overview
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=singhvishalrajput&theme=tokyo-night&hide_border=true&custom_title=Vishal's%20Contribution%20Graph)](https://github.com/singhvishalrajput)
-
-</div>
 
 ---
 
@@ -136,5 +127,5 @@ Currently, I'm deepening my knowledge of Java, backend engineering, <br/> system
 
 **Thanks for visiting my profile! ⭐ Star some repositories if you find them interesting!**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
