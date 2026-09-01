@@ -10,13 +10,14 @@
 
 ##  About Me
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="Coding" width="400" height="10%" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-I'm a Software Engineer from India with an interest in building reliable <br/> and practical software. My experience spans frontend development, backend engineering, databases, and AI-integrated applications, with a primary focus on <br/> Java, JavaScript, TypeScript, React, Node.js, and SQL.
+<br/>
+I'm a Software Engineer from India with an interest in building reliable and practical software. My experience spans frontend development, backend engineering, databases, and AI-integrated applications, with a primary focus on Java, JavaScript, TypeScript, React, Node.js, and SQL.
 
-I enjoy working across the stack — designing interfaces, building APIs, modelling <br/> data, integrating services, and solving the underlying engineering problems that <br/> make applications work well.
+I enjoy working across the stack — designing interfaces, building APIs, modelling data, integrating services, and solving the underlying engineering problems that make applications work well.
 
-Currently, I'm deepening my knowledge of Java, backend engineering, <br/> system design, databases, distributed systems, and data structures & algorithms.
+Currently, I'm deepening my knowledge of Java, backend engineering, system design, databases, distributed systems, and data structures & algorithms.
 <br/>
 <br/>
 <br/>
